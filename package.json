@@ -1,0 +1,8 @@
+{
+  "name": "connect4rotate",
+  "version": "0.0.1",
+  "description": "connect4rotate",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
